@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__getDiagnostics",
+      "Bash(flutter pub get:*)",
+      "Bash(flutter doctor:*)",
+      "Bash(cat:*)",
+      "Bash(del \"D:\\development\\flutter_buku_bisnis_app\\lib\\data\\models\\response\\transaction_response_model.dart\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
